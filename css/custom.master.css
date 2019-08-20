@@ -1,0 +1,11 @@
+#intro {
+    background-image: url("../images/cover-small.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-img-top {
+    height: 200px;
+}
